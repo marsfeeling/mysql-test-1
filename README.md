@@ -3,7 +3,7 @@
 
 ## 题目1：建立一个mysql database, 包含以下两张表：
 
-'''sql
+```sql
 mysql> show databases;
 +--------------------+
 | Database           |
@@ -15,7 +15,7 @@ mysql> show databases;
 | sys                |
 +--------------------+
 5 rows in set (0.00 sec)
-'''
+```
 ## 题目2：如何join两张表
 
 
